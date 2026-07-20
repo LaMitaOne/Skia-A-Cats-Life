@@ -44,12 +44,12 @@ Run and play!
 
 v 0.1: Initial Release
 
- Implemented center-based isometric grid system and procedural tile rendering.
- Added 3D iso-box drawing for furniture (Sofa, Table, Bed, Wardrobe, etc.).
- Added dynamic X-Ray transparency for objects obstructing the cat.
- Implemented Axis-separated collision detection allowing sliding along walls.
- Added interactive physics objects (Glasses fall and shatter into particles).
- Added wandering mouse AI with catch-and-teleport mechanic.
+ Implemented center-based isometric grid system and procedural tile rendering.    
+ Added 3D iso-box drawing for furniture (Sofa, Table, Bed, Wardrobe, etc.).     
+ Added dynamic X-Ray transparency for objects obstructing the cat.     
+ Implemented Axis-separated collision detection allowing sliding along walls.     
+ Added interactive physics objects (Glasses fall and shatter into particles).     
+ Added wandering mouse AI with catch-and-teleport mechanic.     
 
 License
 
