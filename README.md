@@ -9,10 +9,10 @@ Control a cat in a tiny apartment, push glasses off tables, and chase a mouse. I
 
 - Center-Based Coordinates: A grid system inspired by OpenTTD/Flare RPG where objects are placed by their exact center, making multi-tile furniture placement easy.
 - Procedural 3D Iso-Boxes: Furniture is drawn procedurally as 3D boxes with perfect grid alignment, dynamic lighting (top/left/right faces), and Z-axis height.
-- X-Ray Vision: Objects become semi-transparent when the cat walks behind them, so you never lose sight of your character. (not perfect)
+- X-Ray Vision: Objects become semi-transparent when the cat walks behind them, so you never lose sight of your character.  
 - Physics & Destruction: Bump into glasses on tables to knock them off. They fall, hit the ground, and shatter into glowing particles.
 - Simple AI: A wandering mouse roams the apartment. Catch it, and it teleports to a new spot.
-- Smooth Z-Interpolation: The cat smoothly steps up onto furniture and falls down when walking off edges. (not perfect)
+- Smooth Z-Interpolation: The cat smoothly steps up onto furniture and falls down when walking off edges.
 
 🕹️ Controls
 
