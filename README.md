@@ -1,11 +1,9 @@
 # Skia-A-Cats-Life
 A 2.5D isometric game prototype built entirely with Skia4Delphi.
-
-RADStudio FMX / Skia4Delphi 2.5D Isometric Engine prototype "SkiaCatsLife"
    
-<img width="1020" height="629" alt="f32cec6d-5d9a-4b1f-ad84-2723ab45409e" src="https://github.com/user-attachments/assets/243e1c91-72a0-4c51-b988-792c64e11d31" />
+<img width="510" height="314" alt="f32cec6d-5d9a-4b1f-ad84-2723ab45409e" src="https://github.com/user-attachments/assets/243e1c91-72a0-4c51-b988-792c64e11d31" />
    
-A 2.5D isometric engine prototype built entirely with Skia4Delphi. Control a cat in a tiny apartment, push glasses off tables, and chase a mouse. It's not a perfect engine, sure still lot to do and problems to find, the z-order isn't always correct, but it demonstrates core isometric mechanics without the bloat of a full game engine. Enjoy! :D
+Control a cat in a tiny apartment, push glasses off tables, and chase a mouse. It's not a perfect engine, sure still lot to do and problems to find, the z-order isn't always correct, but it demonstrates core isometric mechanics without the bloat of a full game engine. Enjoy! :D
 
 🎮 Gameplay Features
 
