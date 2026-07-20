@@ -53,4 +53,12 @@ v 0.1: Initial Release
 
 License
 
-MIT License - Do whatever you want with it. Credits appreciated but not required.
+MIT License - Do whatever you want with it. Credits appreciated but not required.    
+
+     
+more game prototypes:     
+    
+https://github.com/LaMitaOne/Skia_PlatformerGame    
+https://github.com/LaMitaOne/SkiaLemmings      
+https://github.com/LaMitaOne/SkiaStarPatrols     
+https://github.com/LaMitaOne/Skiatris               
