@@ -4,7 +4,9 @@ A 2.5D isometric game prototype built entirely with Skia4Delphi.
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-A-Cats-Life)
      
 <img width="510" height="314" alt="f32cec6d-5d9a-4b1f-ad84-2723ab45409e" src="https://github.com/user-attachments/assets/243e1c91-72a0-4c51-b988-792c64e11d31" />
-   
+    
+Sample Video: [https://www.youtube.com/watch?v=mePkXrbPfJg](https://youtu.be/J8gzBo9eu04)    
+    
 Control a cat in a tiny apartment, push glasses off tables, and chase a mouse. It's not a perfect engine, sure still lot to do and problems to find, the z-order isn't always correct, but it demonstrates core isometric mechanics without the bloat of a full game engine. Enjoy! :D
 
 🎮 Gameplay Features
