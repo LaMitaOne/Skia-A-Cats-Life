@@ -63,6 +63,7 @@ MIT License - Do whatever you want with it. Credits appreciated but not required
    C&C style 2.5D isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    Tetris clone https://github.com/LaMitaOne/Skiatris    
    2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
    Lemmings/Worms/Portal/Touch 2D hybrid https://github.com/LaMitaOne/SkiaLemmings       
      
 🎮 Game components FMX:    
