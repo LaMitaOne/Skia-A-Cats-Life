@@ -3,7 +3,7 @@ A 2.5D isometric game prototype built entirely with Skia4Delphi.
    
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-A-Cats-Life)
      
-<img width="510" height="314" alt="f32cec6d-5d9a-4b1f-ad84-2723ab45409e" src="https://github.com/user-attachments/assets/243e1c91-72a0-4c51-b988-792c64e11d31" />
+<img width="360" height="202" alt="cat" src="https://github.com/user-attachments/assets/2367f7ba-193e-4d49-a047-19f963cbbb26" />
     
 Sample Video: [https://www.youtube.com/watch?v=mePkXrbPfJg](https://youtu.be/J8gzBo9eu04)    
     
