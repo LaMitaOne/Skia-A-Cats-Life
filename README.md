@@ -56,20 +56,20 @@ v 0.1: Initial Release
 License
 
 MIT License - Do whatever you want with it. Credits appreciated but not required.    
-
-     
+      
 🎮 Skia4Delphi Games (each one file, no ext engine):    
-   2D Platformer https://github.com/LaMitaOne/Skia_PlatformerGame    
-   C&C style 2.5D isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
-   Tetris clone https://github.com/LaMitaOne/Skiatris    
-   2D side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2D JumpnRun Platformer https://github.com/LaMitaOne/Skia_PlatformerGame   
+   2D MegaCatling (Megaman platformer/shooter) https://github.com/LaMitaOne/Skia-MegaCatling     
+   2D Lemmings/Worms/Portal/Touch hybrid https://github.com/LaMitaOne/SkiaLemmings       
+   2D Side-scrolling space shooter https://github.com/LaMitaOne/SkiaStarPatrols    
+   2D Tetris clone https://github.com/LaMitaOne/Skiatris     
+   2.5D C&C style isometric rts https://github.com/LaMitaOne/Skia-RTS-Game   
    2.5D Raycasting doom base https://github.com/LaMitaOne/SkiaDoomBase    
-   Lemmings/Worms/Portal/Touch 2D hybrid https://github.com/LaMitaOne/SkiaLemmings       
+   2.5D Voxel Raycasting Comanche https://github.com/LaMitaOne/Skia-Voxel-Comanche        
      
 🎮 Game components FMX:    
-   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core        
-
-   
+   MRX Gamepad Core https://github.com/LaMitaOne/MRX-Gamepad-Core    
+     
 If you want to tip me a coffee.. :)   
     
 <p align="center">
